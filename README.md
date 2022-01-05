@@ -5,4 +5,4 @@ Análise Exploratória de Dados utilizando a biblioteca Sweetviz no Google Colab
 
 Vídeo de apresentação:
 
-[![Vídeo de apresentação](https://img.youtube.com/vi/???/maxresdefault.jpg)](https://youtu.be/??? "Apresentação")
+[![Vídeo de apresentação](https://img.youtube.com/vi/n7FuNi7lOqc/maxresdefault.jpg)](https://youtu.be/n7FuNi7lOqc "Apresentação")
